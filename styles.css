@@ -1,0 +1,36 @@
+.container{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color:#f5fbf1; 
+}
+
+h1{
+    
+    font-family: 'Lobster';
+    font-size: 6rem;
+    color: #f3c1c6;
+}
+button{
+    width: 30%;
+    margin: 12px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 3rem;
+    border: aquamarine;
+    
+    
+}
+button:hover{
+
+    background-color: #d2f3e0;
+    color: #f3c1c6;
+}
+p{  
+    font-family: 'Archivo Black';
+    color: #f3c1c6;
+    font-size: 3rem;
+}
+
